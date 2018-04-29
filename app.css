@@ -1,0 +1,133 @@
+body {
+    font-family: 'Gugi', cursive;
+    background-color:#d3d3d3; /* set the backgroung color */
+}
+
+h1 {
+    font-family: 'Black Han Sans', sans-serif;
+    color: olive;
+}
+
+span, li {
+    font-family: 'Arvo', serif;
+    font-weight: 700;
+}
+
+#friends {
+    font-family: 'Gamja Flower', cursive;
+}
+
+.travel {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.restaurants {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2, p, #readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    font-weight: bold;
+    color: rgb(85, 2, 2)
+}
+
+.friends1 {
+    border: solid;
+    border-radius: 5px;
+}
+
+.travel1 {
+    border: solid;
+    border-radius: 5px;
+}
+
+.restaurant1 {
+    border: solid;
+    border-radius: 5px;
+}
+
+
+.boxes {
+    margin: 10px;
+    padding: 5px;
+    border: solid;
+    border-radius: 5px;
+    position: relative;
+}
+
+#box1 {
+   background-color: red;
+}
+
+#box2 {
+    background-color: green;
+}
+
+#box3 {
+    background-color: blue;
+    float: none;
+    clear: both;
+}
+
+#box4 {
+    background-color: rgb(241, 198, 4);
+}
+
+body {
+    width: 40%;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+    background: orchid
+}
+
+h2, .image {
+    display: inline-block;
+    text-align: center
+}
+
+.tvshows {
+    color: midnightblue;
+}
+.moretvshows {
+    color: maroon
+}
+
+#first {
+    color: rgba(58, 57, 61, 0.993)
+}
+
+#second {
+    color: rgb(187, 45, 2)
+}
+
+#third {
+    color: seagreen
+}
+
+#fourth {
+    color: rgb(121, 13, 35)
+}
+
+#fifth {
+    color: rgb(11, 61, 11)
+}
+
+
+
+
+
+
+
+
+
