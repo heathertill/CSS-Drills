@@ -13,15 +13,15 @@ span, li {
     font-weight: 700;
 }
 
-#friends {
+#friends1 {
     font-family: 'Gamja Flower', cursive;
 }
 
-.travel {
+#travel1 {
     font-family: 'Roboto Mono', monospace;
 }
 
-.restaurants {
+#restaurants1 {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
